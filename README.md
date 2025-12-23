@@ -49,8 +49,3 @@ AI is embedded across all stages of the data workflow, reducing manual effort an
 - Data Formats: CSV, JSON, structured datasets  
 
 This section can be customized based on deployment architecture.
-
----
-
-git clone https://github.com/your-username/dataflow.git
-cd dataf
