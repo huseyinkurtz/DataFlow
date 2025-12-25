@@ -10,6 +10,10 @@ It enables teams and developers to manage the entire data lifecycle efficiently 
 
 Modern data workflows require speed, accuracy, and scalability. DataFlow centralizes core data operations into a single platform, allowing users to generate datasets, analyze data, orchestrate ETL pipelines, and interact with data using natural language — all powered by artificial intelligence.
 
+
+<img width="1916" height="920" alt="Ekran görüntüsü 2025-12-25 105709" src="https://github.com/user-attachments/assets/e8859073-3617-4870-b93d-f187c3c97bcd" /><img width="1918" height="906" alt="Ekran görüntüsü 2025-12-25 104027" src="https://github.com/user-attachments/assets/80ce1613-e6cd-476e-a431-076bfbb7ac5d" />
+
+
 ---
 
 ## Core Features
